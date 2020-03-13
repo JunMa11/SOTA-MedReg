@@ -11,7 +11,7 @@ State-of-the-art medical image registration methods
 
 |First Author|Method|Training|Testing|Paper|Code|
 |---|---|---|---|---|---|
-|Luca Canalini|Registration of ultrasound volumes based on Euclidean distance transform|1.27|-|[arXiv](https://arxiv.org/abs/2001.03204)|[MeVisLab](https://www.mevislab.de/)|
+|Luca Canalini|Registration of ultrasound volumes based on Euclidean distance transform|1.27 (0.44) (27 cases)|-|[arXiv](https://arxiv.org/abs/2001.03204)|[MeVisLab](https://www.mevislab.de/)|
 |Wolfgang Wein|Brain-Shift Correction with Image-Based Registration and Landmark Accuracy Evaluation|1.75 (0.62)|1.57 (0.96)|[LNCS](https://link.springer.com/chapter/10.1007/978-3-030-01045-4_17)|-|
 |Mattias P. Heinrich|Intra-operative Ultrasound to MRI Fusion with a Public Multimodal Discrete Registration Tool|1.67 (0.54)|1.87 (0.93)|[LNCS](https://link.springer.com/chapter/10.1007/978-3-030-01045-4_19)|[DeedsSSC](https://github.com/mattiaspaul/deedsBCV)|
 |Inês Machado|Deformable MRI-Ultrasound Registration via Attribute Matching and Mutual-Saliency Weighting for Image-Guided Neurosurgery|3.35 (1.39) |2.18 (1.23)|[LNCS](https://link.springer.com/chapter/10.1007/978-3-030-01045-4_20)|[cDRAMMS](https://www.nitrc.org/projects/dramms/)|
