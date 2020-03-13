@@ -24,8 +24,9 @@ State-of-the-art medical image registration methods
 
 ### Register iUS after tumor resection to iUS before tumor resection
 
-|First Author|Method|Training|Testing|Paper|Code|
-|---|---|---|---|---|---|
-|David Drobny|Landmark-Based Evaluation of a Block-Matching Registration Framework on the RESECT Pre- and Intra-operative Brain Image Data Set|1.92||[LNCS](https://link.springer.com/chapter/10.1007/978-3-030-33642-4_15)|-|
+|First Author|Method|mTREs|Paper|Code|
+|---|---|---|---|---|
+|David Drobny|Landmark-Based Evaluation of a Block-Matching Registration Framework on the RESECT Pre- and Intra-operative Brain Image Data Set|1.92 (1.04)|[LNCS](https://link.springer.com/chapter/10.1007/978-3-030-33642-4_15)|[NiftyReg](https://github.com/KCL-BMEIS/niftyreg/wiki)|
 
+>  mTREs: mean target registration errors 
 
